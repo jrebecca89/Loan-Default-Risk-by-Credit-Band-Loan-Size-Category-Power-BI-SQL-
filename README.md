@@ -27,7 +27,7 @@ This project explores loan default risk by analyzing how **credit bands** (Fair,
 
 ## Dashboard Preview
 
-*(Loan Default Risk.dashboard)*
+*(Loan Default Risk.dashboard.pdf)*
 
 ---
 
