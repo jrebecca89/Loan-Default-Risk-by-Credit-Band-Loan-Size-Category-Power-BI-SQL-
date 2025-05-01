@@ -1,7 +1,11 @@
 # Loan Default Risk by Credit Band & Loan Size Category  
 *Simulated Fintech Lending Data*
 
+![Loan Default Dashboard](./Screenshot%202025-05-01%20160726.png)
+
 This Power BI dashboard analyzes how default rates vary across credit bands (Fair, Good, Excellent, Poor) and loan size tiers (<$50K, $50K–$150K, >$150K) in a simulated fintech loan dataset. It offers insights that can inform credit strategy, risk modeling, and mid-ticket loan segmentation.
+
+---
 
 ## 📊 Key Metrics Displayed
 - **Overall Default Rate**: 49.4%
